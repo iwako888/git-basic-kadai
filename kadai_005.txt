@@ -1,0 +1,22 @@
+Step1.
+user@USERnoMacBook-Air git_tutorial % cd /Users/user/Desktop/git_challenge
+user@USERnoMacBook-Air git_challenge % git init
+
+
+
+Step2.
+user@USERnoMacBook-Air git_challenge % mkdir hello_world.txt
+
+
+
+Step3.
+user@USERnoMacBook-Air git_challenge % git add /Users/user/Desktop/git_challenge
+user@USERnoMacBook-Air git_challenge % git commit -m "hello_world.txtを追加"
+
+user@USERnoMacBook-Air git_challenge % git add /Users/user/Desktop/git_challenge
+user@USERnoMacBook-Air git_challenge % git commit -m "日本語訳を追記"
+
+
+
+Step4.
+user@USERnoMacBook-Air git_challenge % git log --oneline
